@@ -1,3 +1,4 @@
+@import url('./styles/menu.css');
 @import url('./styles/cabecalho.css');
 
 
@@ -50,6 +51,9 @@ table {
     --branco-principal: #ffffff;
     --cinza-principal: #667085;
     --bordo: #8e2424;
+	--preto: #101828;
+
+
 
     
     
