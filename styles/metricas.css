@@ -1,0 +1,9 @@
+.metricas-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+section div span {
+   color: var(--bordo); 
+   font-family: var(--fonte-principal);
+}
