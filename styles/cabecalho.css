@@ -3,8 +3,7 @@
     /* justify-content: center; */
     text-align: center;
     padding: 96px 0px;
-    height: 407px;
-    gap:24px
+
 }
 .cabecalho__pagina {
     color: var(--bordo);

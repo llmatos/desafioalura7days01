@@ -1,9 +1,42 @@
 .metricas-container {
     display: flex;
     justify-content: space-around;
+    font-family: var(--fonte-principal);
+    padding: 0 0 96px 0;
+    width: 1280px;
+    margin-left: 80px;
 }
 
 section div span {
    color: var(--bordo); 
-   font-family: var(--fonte-principal);
+   
+   font-weight: 600;
+   font-size: 60px;
+   /* padding: 2em 0em 1em 0; */
+   margin-bottom: 12px;
 }
+
+.metrica-item {
+    /* width: 280px;
+    height: 168px; */
+    display: grid;
+    
+}
+
+section div h1 {
+   
+    color: var(--preto);
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+section div p {
+    font-size: 16px;
+    color: var(--cinza-principal);
+    font-weight: 400;
+}
+
+.metrica-item-numero {
+}
+
