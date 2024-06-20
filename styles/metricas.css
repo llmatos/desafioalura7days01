@@ -2,9 +2,10 @@
     display: flex;
     justify-content: space-around;
     font-family: var(--fonte-principal);
-    padding: 0 0 96px 0;
-    width: 1280px;
-    margin-left: 80px;
+    padding: 0 10em 15em 10em;
+    /* width: 1280px; */
+    /* text-align: center; */
+    /* margin-left: 80px; */
 }
 
 section div span {
@@ -16,12 +17,7 @@ section div span {
    margin-bottom: 12px;
 }
 
-.metrica-item {
-    /* width: 280px;
-    height: 168px; */
-    display: grid;
-    
-}
+
 
 section div h1 {
    
@@ -37,6 +33,4 @@ section div p {
     font-weight: 400;
 }
 
-.metrica-item-numero {
-}
 

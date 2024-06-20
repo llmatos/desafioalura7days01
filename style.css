@@ -1,6 +1,7 @@
 @import url('./styles/menu.css');
 @import url('./styles/cabecalho.css');
 @import url('./styles/metricas.css');
+@import url('./styles/secao_vagas.css');
 
 
 
@@ -53,6 +54,7 @@ table {
     --cinza-principal: #667085;
     --bordo: #8e2424;
 	--preto: #101828;
+	--background-secundario: #8E24240D;
 
 
 
