@@ -8,7 +8,7 @@
     /* margin-left: 80px; */
 }
 
-section div span {
+.metrica-container_numero {
    color: var(--bordo); 
    
    font-weight: 600;
@@ -19,7 +19,7 @@ section div span {
 
 
 
-section div h1 {
+.metrica-item-titulo {
    
     color: var(--preto);
     font-weight: 500;
@@ -27,7 +27,7 @@ section div h1 {
     margin-bottom: 8px;
 }
 
-section div p {
+.metrica-item-texto {
     font-size: 16px;
     color: var(--cinza-principal);
     font-weight: 400;
