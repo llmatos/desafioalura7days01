@@ -50,8 +50,9 @@
     font-size: 20px;
     color: var(--preto);
     height: 30px;
-    padding: 2em;
-    margin-left: 400px;
+    margin-left: 336px;
+    margin-bottom: 32px;
+    margin-top: 44px;
 }
 
 .titulo-vaga {
@@ -59,18 +60,23 @@
     font-weight: 500;
     font-size: 18px;
     color: var(--preto);
-    padding: 2em;
-    margin-left: 400px;
+    margin-left: 8px;
+    height: 280px;
+    margin-bottom: 320px;
 }
 
 .informacoes {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center; */
     color: var(--cinza-principal);
     font-family: var(--fonte-principal);
     font-weight: 500;
     font-size: 16px;
+    height: 24px;
+    margin-top: 32px;
+    margin-left: 9px;
+
 }
 
 .vagas {
@@ -80,5 +86,10 @@
 .vaga {
     border: 1px solid var(--cinza-secundario);
     border-radius: 16px;
-    margin-left: 100px;
+    margin-left: 336px;
+    margin-right: 336px;
+    margin-bottom: 24px;
+     padding: 24px 24px 28px 24px;
+    /* height: 136px;
+    width: 768px; */
 }
