@@ -1,0 +1,20 @@
+.depoimento {
+
+   text-align: center;
+   background-color: var(--background-secundario);
+   /* padding: 0 32px 0 32px; */
+   /* width: 1216px; */
+   margin-left: 112px;
+   margin-right: 112px;
+   height:404px;
+   padding: 64px
+}
+
+.depoimento_texto{
+   
+    color: var(--bordo);
+    font-family: var(--fonte-principal);
+    font-weight: 600;
+    font-size: 14px;
+    /* margin-bootom: 32px; */
+}
